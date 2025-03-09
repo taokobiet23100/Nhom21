@@ -1,1 +1,1 @@
-console.log("dong gop moi cua toi");
+console.log("dong gop moi cua toi trong javascript");
