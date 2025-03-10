@@ -1,5 +1,9 @@
 test step 4-5
 sua them:
 1.chi sau quay
+<<<<<<< HEAD
 2.2180605940
 3.hutech
+=======
+2.2180605940
+>>>>>>> 41688ca61d11f92719666f1a0dfc4e7e2ce3bad3
